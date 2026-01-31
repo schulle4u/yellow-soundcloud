@@ -1,8 +1,6 @@
-<p align="right"><a href="readme-de.md">Deutsch</a> &nbsp; <a href="readme.md">English</a></p>
-
 # Soundcloud 0.9.1
 
-Soundcloud-Audio einbinden.
+Soundcloud-Audio einbinden. Entwickelt von Steffen Schultz.
 
 <p align="center"><img src="screenshot.png" alt="Bildschirmfoto"></p>
 
@@ -46,6 +44,4 @@ Vielen Dank an Datenstrom für die anfängliche Entwicklung!
 
 Diese Erweiterung verwendet [Soundcloud](https://soundcloud.com). Vielen Dank für den Dienst.
 
-## Entwickler
-
-Steffen Schultz. [Hilfe finden](https://datenstrom.se/de/yellow/help/).
+Hast du Fragen? [Hilfe finden](https://datenstrom.se/de/yellow/help/).

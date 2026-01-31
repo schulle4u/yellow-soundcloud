@@ -1,8 +1,6 @@
-<p align="right"><a href="readme-de.md">Deutsch</a> &nbsp; <a href="readme.md">English</a></p>
-
 # Soundcloud 0.9.1
 
-Embed Soundcloud audio tracks.
+Embed Soundcloud audio tracks. Developed by Steffen Schultz.
 
 <p align="center"><img src="screenshot.png" alt="Screenshot"></p>
 
@@ -46,6 +44,4 @@ Thanks to Datenstrom for initial development!
 
 This extension uses [Soundcloud](https://soundcloud.com). Thanks for the service.
 
-## Developer
-
-Steffen Schultz. [Get help](https://datenstrom.se/yellow/help/).
+Do you have questions? [Get help](https://datenstrom.se/yellow/help/).
